@@ -1,0 +1,10 @@
+echo "venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+model/
+data/
+.DS_Store
+Thumbs.db
+.vscode/" > .gitignore
